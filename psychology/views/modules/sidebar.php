@@ -24,7 +24,7 @@
                with font-awesome or any other icon font library -->
             <li class="nav-item">
                 <a href="/psychology/psychology/" class="nav-link <?php if ($routesArray[3]==""):?> active <?php endif ?>">
-                    <i class="nav-icon far fa-gift"></i>
+                    <i class="nav-icon far fa-image"></i>
                     <p>
                         Home
                     </p>
