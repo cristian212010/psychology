@@ -18,6 +18,7 @@ $routesArray = array_filter($routesArray);
   <link rel="stylesheet" href="views/assets/plugins/overlayScrollbars/css/OverlayScrollbars.min.css">
   <!-- Theme style -->
   <link rel="stylesheet" href="views/assets/plugins/adminlte/css/adminlte.min.css">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-9ndCyUaIbzAi2FUVXJi0CjmCapSmO7SnpJef0486qhLnuZ2cdeRhO02iuK6FUUVM" crossorigin="anonymous">
 
   <!-- DataTables -->
   <link rel="stylesheet" href="views/assets/plugins/datatables-bs4/css/dataTables.bootstrap4.min.css">
@@ -45,6 +46,7 @@ $routesArray = array_filter($routesArray);
   <script src="views/assets/plugins/datatables-buttons/js/buttons.html5.min.js"></script>
   <script src="views/assets/plugins/datatables-buttons/js/buttons.print.min.js"></script>
   <script src="views/assets/plugins/datatables-buttons/js/buttons.colVis.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-geWF76RCwLtnZ8qwWowPQNguL3RmwHVBC9FhGdlKrxdiJJigb/j/68SIy3Te4Bkz" crossorigin="anonymous"></script>
 
 </head>
 <body class="hold-transition sidebar-mini layout-fixed">

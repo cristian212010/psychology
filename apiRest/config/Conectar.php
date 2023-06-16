@@ -4,7 +4,7 @@ class Conectar{
 
     protected function conexion(){
         try {
-            $conectar = $this->db = new PDO("mysql:local=localhost;dbname=estadisticas", "root", ""); //Lo primero es el DCN
+            $conectar = $this->db = new PDO("mysql:local=localhost;dbname=psychology", "root", ""); //Lo primero es el DCN
             return $conectar;
         } catch (Exception $e) {
             return $e->getMessage();
